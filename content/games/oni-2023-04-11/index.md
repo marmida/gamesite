@@ -21,7 +21,7 @@ last bit is way more important than it sounds - this game is more
 like *Entropy Simulator* and yeah of course it has Touring-complete
 programming for automation.
 
-Here's the plumbing overlay showing our first flushing toilets, established on on cycle (day) 5:
+Here's the plumbing overlay showing our first flushing toilets, established on cycle (day) 5:
 
 {{< imgfig "Oxygen Not Included 4_11_2023 3_45_05 PM.png" "You will appreciate the toilet in your IRL home more after making one in this video game" >}}
 
