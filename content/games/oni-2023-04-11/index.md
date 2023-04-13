@@ -13,7 +13,7 @@ with the titular catch: you don't get to breathe for free. A
 bunch of very helpless colonists are printed by a machine inside
 the depths of an asteroid.
 
-{{< imgfig "Oxygen Not Included 4_11_2023 2_51_51 PM.png" "New colony start: the founding trio" >}}
+{{/*< imgfig "Oxygen Not Included 4_11_2023 2_51_51 PM.png" "New colony start: the founding trio" >*/}}
 
 You get to manage lots of fun things,
 like making breathable air, water, food, and heat rejection. That
@@ -23,7 +23,7 @@ programming for automation.
 
 Here's the plumbing overlay showing our first flushing toilets, established on on cycle (day) 5:
 
-{{< imgfig "Oxygen Not Included 4_11_2023 3_45_05 PM.png" "You will appreciate the toilet in your IRL home more after making one in this video game" >}}
+{{/*< imgfig "Oxygen Not Included 4_11_2023 3_45_05 PM.png" "You will appreciate the toilet in your IRL home more after making one in this video game" >*/}}
 
 The starting biome is the only one with pre-existing pockets of clean
 water. We want to consolidate those into our main drinking water
@@ -33,7 +33,7 @@ piss don't get consumed. Hence, we have to do a little minor
 relocation every time we want to consolidate puddles; here's the first
 such effort.
 
-{{< video src="Oxygen Not Included 2023-04-11 21-42-24.mp4" type="video/mp4" preload="auto" caption="Unleash the river! The dups consolidate water into the main source tank.">}}
+{{/*< video src="Oxygen Not Included 2023-04-11 21-42-24.mp4" type="video/mp4" preload="auto" caption="Unleash the river! The dups consolidate water into the main source tank.">*/}}
 
 {{< sectionbreak >}}
 
