@@ -1,0 +1,83 @@
+baseURL = 'http://example.org/'
+theme = 'LoveIt'
+title = 'Rene Plays'
+subtitle = "and you read about it"
+description = 'Rene plays games, and you read about it'
+
+languageCode = 'en-us'
+languageName = "English"
+hasCJKLanguage = false
+
+# Author config
+[author]
+  name = "Rene Armida"
+  # email = "rene@armida.us"
+  # link = ""
+
+## Main Menu
+[[menu.main]]
+  name = "Games"
+  weight = 100
+  identifier = "Games"
+  url = "/games"
+[[menu.main]]
+  name = "About"
+  weight = 90
+  identifier = "About"
+  url = "/about"
+[[menu.main]]
+  name = "Tags"
+  weight = 95
+  identifier = "Tags"
+  url = "/tags"
+
+# Markup related configuration in Hugo
+[markup]
+  # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
+  [markup.highlight]
+    # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
+    noClasses = false
+
+[params]
+  defaultTheme = "auto"
+  # website title for Open Graph and Twitter Cards
+  title = "Rene Plays"
+  logo = "/logo-320.png"
+
+  [params.app]
+    noFavicon = true
+    title = "Rene Plays"
+    # description =  "Sounds like mediocre"
+    # subtitle = "blah"
+
+  [params.header.title]
+    # URL of the LOGO
+    logo = "/logo-320.png"
+    # title name
+    name = "Rene Plays"
+    title = "Rene Plays"
+    # subtitle = "sounds like mediocre"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    # LoveIt NEW | 0.2.5 whether to use typeit animation for title name
+    typeit = false
+
+  [params.footer]
+    enable = true
+    # LoveIt NEW | 0.2.0 Custom content (HTML format is supported)
+    custom = ''
+    # LoveIt NEW | 0.2.0 whether to show Hugo and theme info
+    hugo = false
+    # LoveIt NEW | 0.2.0 whether to show copyright info
+    copyright = true
+    # LoveIt NEW | 0.2.0 whether to show the author
+    author = true
+    # Site creation time
+    since = 2023
+    # ICP info only in China (HTML format is supported)
+    icp = ""
+    # license info (HTML format is supported)
+    license = ''
+    # license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'

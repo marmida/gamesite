@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@500&display=swap');
+
+.header-title {
+	font-family: DynaPuff,system-ui,-apple-system,BlinkMacSystemFont,PingFang SC,Microsoft YaHei UI,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Helvetica,Arial,sans-serif
+}
+
+.special .single-title {
+	text-align: left;
+}
+
+.single .content figure video {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.single .content video {
+    max-width: 100%;
+    min-height: 1em;
+}
+
+.section-break {
+	font-family: DynaPuff,system-ui,-apple-system,BlinkMacSystemFont,PingFang SC,Microsoft YaHei UI,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+	text-align: center;
+	line-height: 4em;
+}
