@@ -1,7 +1,7 @@
 ---
 title: "Catch-up: Project Zomboid"
 date: 2023-04-14T11:24:14-07:00
-draft: true
+draft: false
 tags:
    - simulation
    - survival
