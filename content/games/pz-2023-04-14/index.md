@@ -22,7 +22,7 @@ There are a couple bodies of water nearby; there's a lake in the woods, and a bi
 
 {{< sectionbreak >}}
 
-Sometimes we have to go into the nearest town.
+Sometimes I have to go into the nearest town.
 West Point is an infested hellhole; just driving past it was
 initially challenging. I resorted to fire.
 
