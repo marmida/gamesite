@@ -61,7 +61,7 @@ bringing along its former owner.
 
 **Spineling Showers**
 
-{{< video src="Barotrauma 2023-05-03 10-35-47.mp4" caption="Please keep your vomiting down" >}}
+{{< video src="Barotrauma 2023-05-04 08-48-45.mp4" caption="Please keep your vomiting down" >}}
 
 Huge swarms of monsters means a peaceful aftermath full
 of sinking corpses, punctuated by crewmembers with bad
